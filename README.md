@@ -7,7 +7,7 @@ dependencies:
     git:
       url: https://github.com/maliaydemir/expanded_grid.git
 ```			
-## Example Usage
+## Usage Example
 
 ```dart
 ExpandedGrid(
